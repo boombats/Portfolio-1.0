@@ -19,6 +19,10 @@ Saving calculator based on a popular book (experimenting With JS) :
   
 Music Emersion Web Browser <not finished> (experimenting with JS):
   https://lime-well-vacation.glitch.me
+
+---------------------------------------------------------------------------------------------------------------------
+
+FIRST PROJECTS FROM THE START OF THE YEAR :
   
 Reverse Engineering of BBC website (experimenting with responsive design) :  
   https://gratis-pie-salt.glitch.me
